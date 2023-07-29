@@ -1,3 +1,3 @@
-# Smalltalk Test
+# Smalltalk & Bro Tests
 
-A sample C# file testing for Smalltalk.
+Sample files to test for Smalltalk and Bhailang.
